@@ -5,7 +5,6 @@ require 'crawler/base'
 require 'crawler/cinema/duration'
 require 'crawler/cinema/entries'
 require 'crawler/cinema/provider'
-require 'crawler/cinema/session'
 
 module Crawler
   class Cinema
